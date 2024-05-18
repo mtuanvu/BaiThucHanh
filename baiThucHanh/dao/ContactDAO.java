@@ -1,5 +1,6 @@
-package baiThucHanh.dao;
+package baiThucHanh.model;
 
+import baiThucHanh.dao.ConnectionDb;
 import baiThucHanh.entity.Contact;
 
 import java.sql.*;

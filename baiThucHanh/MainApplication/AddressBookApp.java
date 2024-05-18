@@ -1,10 +1,8 @@
 package baiThucHanh.MainApplication;
 
-// AddressBookApp.java
-
 import baiThucHanh.Controller.AddressBookController;
 import baiThucHanh.View.AddressBookView;
-import baiThucHanh.dao.ContactDAO;
+import baiThucHanh.model.ContactDAO;
 
 public class AddressBookApp {
     public static void main(String[] args) {
@@ -14,4 +12,3 @@ public class AddressBookApp {
         controller.run();
     }
 }
-

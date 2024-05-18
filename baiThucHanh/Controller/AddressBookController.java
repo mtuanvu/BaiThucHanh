@@ -1,7 +1,7 @@
 package baiThucHanh.Controller;
 
 import baiThucHanh.View.AddressBookView;
-import baiThucHanh.dao.ContactDAO;
+import baiThucHanh.model.ContactDAO;
 import baiThucHanh.entity.Contact;
 
 public class AddressBookController {

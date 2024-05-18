@@ -1,4 +1,4 @@
-package baiThucHanh.view;
+package baiThucHanh.View;
 
 import baiThucHanh.entity.Contact;
 
